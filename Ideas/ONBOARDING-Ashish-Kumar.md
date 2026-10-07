@@ -17,7 +17,7 @@ FLN is a connected assessment and learning workflow involving students, teachers
 
 The high-level cycle is:
 
-Assess ? identify the student's current level/weak areas ? generate targeted practice ? reassess ? update progress.
+Assess -> identify the student's current level/weak areas ? generate targeted practice ? reassess ? update progress.
 
 For my contribution, I traced the personalized worksheet flow from the frontend to the backend PDF generator:
 
